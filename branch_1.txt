@@ -1,2 +1,3 @@
 line 1
 branch2 init
+Branch 2 added line
